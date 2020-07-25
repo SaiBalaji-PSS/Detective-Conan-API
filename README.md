@@ -1,6 +1,7 @@
 # Detective-Conan-API
 
-#### An Unofficial RESfullT API for Detective Conan anime built using Vapor - Server-Side Swift framework.
+#### An Unofficial RESfullT API for Detective Conan anime built using Vapor - Server-Side Swift framework.Data obtained from MyAnimeList website.
+
 
 
 
