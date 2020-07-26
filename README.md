@@ -2,7 +2,12 @@
 
 #### An Unofficial RESfullT API for Detective Conan anime built using Vapor - Server-Side Swift framework.Data obtained from MyAnimeList website.
 
+## Try it now! 
+https://detectiveconanapi.herokuapp.com/characters
 
+https://detectiveconanapi.herokuapp.com/movies
+ 
+https://detectiveconanapi.herokuapp.com/ova
 
 
 ![vapor](https://user-images.githubusercontent.com/51410810/88455993-cc3aa380-ce97-11ea-899d-18cdc6c699e7.png)
