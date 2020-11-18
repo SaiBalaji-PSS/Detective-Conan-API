@@ -17,18 +17,18 @@ https://detectiveconanapi.herokuapp.com/ova
 
 # To run it in a Local Server </br>
 # Requirements </br>
-. Mac OS or Linux - Ubuntu 20.04 or CentOS 8 or Amazin Linux 2(with Swift installed) </br>
+* Mac OS or Linux - Ubuntu 20.04 or CentOS 8 or Amazin Linux 2(with Swift installed) </br>
 
-. Xcode(Mac) or Linux(Any text editor with Swift support and Terminal) </br>
+* Xcode(Mac) or Linux(Any text editor with Swift support and Terminal) </br>
 
 
 # End points available
 
-. /characters - Fetches characters and voice actor data. </br>
+* /characters - Fetches characters and voice actor data. </br>
 
-. /movies - Fetches a JSON array of movie data. </br>
+* /movies - Fetches a JSON array of movie data. </br>
 
-. /ova - Fetches a JSON array of Orginal Video Animation data. </br>
+* /ova - Fetches a JSON array of Orginal Video Animation data. </br>
 
 # Sample response
 
