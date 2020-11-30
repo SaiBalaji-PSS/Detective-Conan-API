@@ -1,8 +1,7 @@
 # Detective-Conan-API
 
-#### An Unofficial RESTfull API for Detective Conan anime built using Vapor - Server-Side Swift framework.Data obtained from MyAnimeList website.
 
-## Deployed to Heroku Try it now! 
+## Deployed to Heroku  
 https://detectiveconanapi.herokuapp.com/characters
 
 https://detectiveconanapi.herokuapp.com/movies
